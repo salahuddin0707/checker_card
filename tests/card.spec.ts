@@ -86,5 +86,6 @@ test("shuffle the deck", async ({ request }) => {
 });
 
 /**
+ * Run npm intall after cloning the repo
  *  * To run the test command: npx playwright test card.spec.ts
  */
